@@ -62,9 +62,9 @@ section {
   justify-content: space-between;
 }
 .btn {
-  padding: 6px 12px;
   cursor: pointer;
   border: 0;
+  padding: 6px 12px;
   border-radius: 3px;
   line-height: 1.4;
 }
@@ -74,7 +74,7 @@ section {
 }
 .btn-primary {
   color: #ffffff;
-  background: 364147;
+  background: #364147;
 }
 .form-control {
   display: block;

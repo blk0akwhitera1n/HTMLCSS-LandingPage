@@ -77,9 +77,10 @@ section {
 }
 .form-control {
   display: block;
-  border: solid stroke #a0a0a0;
-  padding: 6px, 12px, 6px, 12px;
+  border: solid 1px #a0a0a0;
+  padding: 6px 12px;
   line-height: 1.4;
+  color: #8598a2;
 }
 .text-light {
   font-size: 30px;

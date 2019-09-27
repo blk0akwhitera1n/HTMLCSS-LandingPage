@@ -345,7 +345,7 @@ footer a:hover {
   background-position: center;
 }
 .twitter {
-  background-image: url("../img/twitter.svg");
+  background-image: url('../img/twitter.svg');
 }
 .facebook {
   background-image: url('../img/facebook.svg');
@@ -373,6 +373,7 @@ footer a:hover {
   margin-bottom: 10px;
 }
 .newsletter button {
+  text-transform: uppercase;
   width: 150px;
   min-width: auto;
   letter-spacing: 1px;

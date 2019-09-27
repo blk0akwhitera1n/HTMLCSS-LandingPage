@@ -367,3 +367,13 @@ footer a:hover {
   font-weight: 400;
   margin-bottom: 15px;
 }
+.newsletter input {
+  border: 1px solid #364147;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.newsletter button {
+  width: 150px;
+  min-width: auto;
+  letter-spacing: 1px;
+}

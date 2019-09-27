@@ -38,6 +38,7 @@ h6 {
 /***************************************/
 .container {
   margin: 0 auto;
+  max-width: 1170px;
 }
 section {
   display: flex;
@@ -68,11 +69,11 @@ section {
   line-height: 1.4;
 }
 .btn-default {
-  color: white;
+  color: #ffffff;
   background-color: #faa541;
 }
 .bt-primary {
-  color: white;
+  color: #ffffff;
   background: 364147;
 }
 .form-control {

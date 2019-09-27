@@ -61,26 +61,19 @@ section {
   justify-content: space-between;
 }
 .btn {
-  padding: 6px, 12px, 6px, 12px;
-  cursor: auto;
+  padding: 6px 12px;
+  cursor: pointer;
+  border: none;
   border-radius: 3px;
   line-height: 1.4;
 }
 .btn-default {
-  background-color: #faa541;
   color: white;
-  padding: 6px, 12px, 6px, 12px;
-  cursor: auto;
-  border-radius: 3px;
-  line-height: 1.4;
+  background-color: #faa541;
 }
 .bt-primary {
-  background-color: #364147;
   color: white;
-  padding: 6px, 12px, 6px, 12px;
-  cursor: auto;
-  border-radius: 3px;
-  line-height: 1.4;
+  background: 364147;
 }
 .form-control {
   display: block;
